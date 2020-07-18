@@ -1,11 +1,11 @@
 **訓練**
 
 ```
-python alibaba_train.py
+python dart_train.py
 ```
 
 **測試**
 
 ```
-python alibaba_predict.py
+python dart_predict.py
 ```
